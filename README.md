@@ -1,6 +1,6 @@
 ### Tom Bailey 🌴
 
-Currently working on a fork of the `covrig` project!
+Currently working on a fork of the [`covrig`](https://github.com/srg-imperial/covrig) project!
 
 ### 🧰 Languages, Technologies & Frameworks
 
